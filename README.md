@@ -1,6 +1,6 @@
 # LiteX-Wallet
 
-Developer DOCS : https://secretsuperdev9472s-organization.gitbook.io/litex/
+Developer DOCS : https://docs.litexwallet.com
 
 
 
